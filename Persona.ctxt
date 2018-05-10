@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ Persona\ -\ simula\ una\ persona\ propietaria\ de\ un\ barco\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=nombre\ dni
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Persona\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Metodo\ toString\ de\ la\ clase\ Persona\r\n\ @return\ los\ datos\ de\ la\ persona\ nombre\ +\ dni\r\n
+numComments=3

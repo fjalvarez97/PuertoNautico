@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alquiler
+comment0.text=\r\n\ Clase\ alquiler,\ simula\ alquileres\ de\ los\ amarres\ de\ un\ puerto\ para\ barcos\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ Alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=numeroDias\ barco
+comment1.target=Alquiler(int,\ Barco)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ alquiler\r\n\ @param\ numeroDias\ el\ numero\ de\ dias\ que\ alquila\ el\ amarre\r\n\ @param\ barco\ el\ barco\ que\ alquila\ el\ amarre\r\n
+comment2.params=
+comment2.target=double\ getPrecio()
+comment2.text=\r\n\ \ Devuelve\ el\ costo\ del\ alquiler\r\n\ \ @return\ el\ precio\ a\ pagar\ por\ el\ alquiler\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Metodo\ toString\ de\ la\ clase\ Alquiler\r\n\ @return\ la\ informacion\ completa\ del\ alquiler\r\n
+numComments=4

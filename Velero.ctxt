@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Velero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Velero\ here.\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ Alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=matricula\ eslora\ anoFabricacion\ propietario\ numeroMastiles
+comment1.target=Velero(java.lang.String,\ double,\ int,\ Persona,\ int)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Velero\r\n\ @param\ matricula\ la\ matricula\ del\ Velero\r\n\ @param\ eslora\ la\ eslora\ del\ Velero\r\n\ @param\ anoFabricacion\ el\ ano\ de\ fabricacion\ del\ Velero\r\n\ @param\ propietario\ el\ propietario\ del\ Velero\r\n\ @param\ numeroMastiles\ el\ numero\ de\ mastiles\ del\ Velero\r\n
+comment2.params=
+comment2.target=int\ getCoeficienteBernua()
+comment2.text=\r\n\ Devuelve\ el\ coeficiente\ bernua\ de\ la\ embarcacion\r\n\ @return\ el\ coeficiente\ bernua\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Metodo\ toString\ de\ la\ clase\ Velero\r\n\ @return\ la\ informacion\ del\ velero\r\n
+numComments=4

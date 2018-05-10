@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Puerto
+comment0.text=\r\n\ Clase\ Puerto\ -\ Simula\ un\ puerto\ con\ 4\ amarres\ para\ amarrar\ barcos\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ Alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Puerto()
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Puerto\r\n
+comment2.params=
+comment2.target=void\ verEstadoAmarres()
+comment2.text=\r\n\ Muestra\ los\ datos\ referentes\ al\ alquiler\ en\ caso\ de\ que\ un\ amarre\ este\ ocupado\r\n
+comment3.params=numDias\ barco
+comment3.target=double\ alquilarAmarre(int,\ Barco)
+comment3.text=\r\n\ Devuelve\ el\ coste\ del\ amarre\ si\ hay\ alguno\ disponible\r\n\ @param\ numDias\ el\ numero\ de\ dias\ del\ alquiler\r\n\ @param\ barco\ el\ barco\ que\ va\ a\ alquilar\ el\ amarre\r\n\ @return\ el\ coste\ del\ amarre\ o\ -1\ en\ caso\ de\ que\ todos\ esten\ ocupados\r\n
+comment4.params=numAmarre
+comment4.target=double\ liquidarAlquilerAmarre(int)
+comment4.text=\r\n\ Comprueba\ si\ el\ amarre\ indicado\ corresponde\ a\ uno\ alquilado\ y\ lo\ libera\ devolviendo\ el\ costo\ de\ este\r\n\ @param\ numAmarre\ el\ numero\ del\ amarre\ a\ liquidar\r\n\ @return\ el\ costo\ del\ alquiler\ o\ -1\ si\ no\ se\ puede\ llevar\ a\ cabo\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Metodo\ toString\ de\ la\ clase\ Puerto\r\n\ @return\ la\ informacion\ del\ puerto\r\n
+numComments=6

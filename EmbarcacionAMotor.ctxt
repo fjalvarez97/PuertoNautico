@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmbarcacionAMotor
+comment0.text=\r\n\ Clase\ EmbarcacionAMotor\ -\ Subclase\ de\ barco\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ Alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=matricula\ eslora\ anoFabricacion\ propietario\ potencia
+comment1.target=EmbarcacionAMotor(java.lang.String,\ double,\ int,\ Persona,\ int)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ EmbarcacionAMotor\r\n\ @param\ matricula\ la\ matricula\ de\ la\ embarcacion\r\n\ @param\ eslora\ la\ eslora\ de\ la\ embarcacion\r\n\ @param\ anoFabricacion\ el\ anio\ de\ fabricacion\ de\ la\ embarcacion\r\n\ @param\ propietario\ la\ Persona\ que\ posee\ la\ embarcacion\r\n\ @param\ potencia\ la\ potencia\ de\ la\ embarcacion\r\n
+comment2.params=
+comment2.target=int\ getCoeficienteBernua()
+comment2.text=\r\n\ Devuelve\ el\ coeficiente\ bernua\ de\ la\ embarcacion\r\n\ @return\ el\ coeficiente\ bernua\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Metodo\ toString\ de\ la\ clase\ EmbarcacionAMotor\r\n\ @return\ la\ informacion\ de\ la\ embarcacion\r\n
+numComments=4

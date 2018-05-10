@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Yate
+comment0.text=\r\n\ Clase\ Yate\ -\ Subclase\ de\ EmbarcacionAMotor,\ representa\ una\ embarcacion\ a\ motor\ \r\n\ de\ lujo\ o\ yate\r\n\r\n\ @author\ (Fran\ Alvarez\ y\ Carlos\ Alvarez)\r\n\ @version\ 1.0\r\n
+comment1.params=matricula\ eslora\ anoFabricacion\ propietario\ potencia\ numCamarotes
+comment1.target=Yate(java.lang.String,\ double,\ int,\ Persona,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Yate\r\n\ @param\ matricula\ la\ matricula\ del\ Yate\r\n\ @param\ eslora\ la\ eslora\ del\ Yate\r\n\ @param\ anoFabricacion\ el\ ano\ de\ fabricacion\ del\ Yate\r\n\ @param\ propietario\ el\ propietario\ del\ Yate\r\n\ @param\ potencia\ la\ potencia\ del\ Yate\r\n\ @param\ numCamarotes\ el\ numero\ de\ camarotes\ del\ Yate\r\n
+comment2.params=
+comment2.target=int\ getCoeficienteBernua()
+comment2.text=\r\n\ Devuelve\ el\ coeficiente\ bernua\ de\ la\ embarcacion\r\n\ @return\ el\ coeficiente\ bernua\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Metodo\ toString\ de\ la\ clase\ Yate\r\n\ @return\ la\ informacion\ del\ yate\r\n
+numComments=4
