@@ -15,10 +15,9 @@ public class Puerto
     public Puerto()
     {
         amarres = new Alquiler[4];
-        amarres[0] = null;
-        amarres[1] = null;
-        amarres[2] = null;
-        amarres[3] = null;
+        for (Alquiler alquiler : amarres){
+            alquiler = null;
+        }
     }
 
     /**
@@ -43,11 +42,12 @@ public class Puerto
     {
         double coste = -1;
         // Inicializamos coste a -1 ya que si no hay amarres disponibles se devuelve este valor
-        for (int i = 0; i<4 ; i++){
+        boolean amarreEncontrado = false;
+        for (int i = 0; i<4 && !amarreEncontrado ; i++){
             if(amarres[i] == null){
                 amarres[i] = new Alquiler(numDias, barco);
                 coste = amarres[i].getPrecio();
-                break;
+                amarreEncontrado = true;
             }
         }
         return coste; 
